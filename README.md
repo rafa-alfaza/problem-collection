@@ -6,14 +6,15 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+banyak sisiwa yang tidak sholat asar di sekolah
 
 # Solution
-(tulis solusi disini)
+membuat website absen umtuk siswa , apakah siswa sudah sholat/belum
 
 
 ## Author
-by (tulis nama kamu) 
+by Rafa Alfaza S.R
+8I
 
 
 cc: SMPN 1 Semarang
